@@ -4,7 +4,7 @@
   <name>turtlesim</name>
   <version>1.2.6</version>
   <description>
-    turtlesim is a tool made for teaching ROS and ROS packages.
+    turtlesim is a tool made for teaching ROS and ROS packages. Edited by Thomas Ramey
   </description>
   <maintainer email="mabel@openrobotics.org">Mabel Zhang</maintainer>
   <maintainer email="sloretz@openrobotics.org">Shane Loretz</maintainer>
